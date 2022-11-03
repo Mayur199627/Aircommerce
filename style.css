@@ -3,6 +3,7 @@
     margin: 0;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-color: gray;
+    cursor: pointer;
 }
 .firsthead{
     display: flex;
@@ -1425,6 +1426,7 @@ left: 12%;
     display: flex;
     justify-content: space-around;
     height: 30vh;
+    padding: 0% 6%;
     border-bottom: 1px solid gray;
 }
 .f1{
@@ -1450,4 +1452,5 @@ left: 12%;
 }
 .rights{
     color: gray;
+    font-size: 13px;
 }
